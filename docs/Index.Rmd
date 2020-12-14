@@ -1215,6 +1215,6 @@ mjfrigaard@gmail.com
 
 
 ```{r chrome_print, echo=FALSE, results='hide', eval=FALSE}
-pagedown::chrome_print("Index.html", output = "pdfs/01-intro-to-r-programming.pdf")
+pagedown::chrome_print("Index.html", output = "pdfs/intro-to-r-programming.pdf")
 ```
 
